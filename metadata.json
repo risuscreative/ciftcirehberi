@@ -1,0 +1,8 @@
+{
+  "name": "Dijital Çiftçi Rehberi",
+  "description": "Çiftçiler için yapay zeka destekli tarla yönetimi, toprak analizi ve zirai takvim uygulaması.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
